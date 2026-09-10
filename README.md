@@ -3,7 +3,7 @@
 **`Desenvolvedora `**
 
 
-Me chamo Anny, tenho 20 anos e estou cursando Ciência da Computação. Sou apaixonada por tecnologia e busco constantemente me aprimorar e criar projetos práticos na área de desenvolvimento. Gosto de conectar com a comunidade e compartilhar minha jornada na programação. Você pode acompanhar meu trabalho e trajetória profissional através do meu " [LinkedIn] ( https://www.linkedin.com/in/anny-santos-b43096213?utm_source=share_via&utm_content=profile&utm_medium=member_ios)". 
+Me chamo Anny, tenho 20 anos e estou cursando Ciência da Computação. Sou apaixonada por tecnologia e busco constantemente me aprimorar e criar projetos práticos na área de desenvolvimento. Gosto de conectar com a comunidade e compartilhar minha jornada na programação. Você pode acompanhar meu trabalho e trajetória profissional através do meu " [LinkedIn]( https://www.linkedin.com/in/anny-santos-b43096213?utm_source=share_via&utm_content=profile&utm_medium=member_ios)". 
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -124,22 +124,4 @@ Me chamo Anny, tenho 20 anos e estou cursando Ciência da Computação. Sou apai
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=annysantos03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=annysantos03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
